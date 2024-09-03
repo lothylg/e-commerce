@@ -12,7 +12,7 @@ The database has the option to seed so run npm run seed to add seeded data.
 
 ## Links to deployed applications / video walk through
 
-video walk-through: https://drive.google.com/file/d/1MKVXSF6LCeKwH-HK9iSitmH_VhgMOaVT/view
+video walk-through: https://drive.google.com/file/d/1CPdgdg6tjCeY-DvMhtUrk2xXM45_6T39/view
 
 github: https://github.com/lothylg/e-commerce
 
